@@ -1,0 +1,16 @@
+{
+  "name": "consumer",
+  "version": "1.0.0",
+  "description": "get messages from apache kafka and store them into couchbase, grouped by key",
+  "main": "index.js",
+  "dependencies": {
+    "couchbase": "^2.6.4",
+    "kafka-node": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@dei_biz",
+  "license": "MIT"
+}

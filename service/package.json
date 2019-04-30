@@ -1,0 +1,15 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "service to get documents from couchbase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@dei_biz",
+  "license": "MIT",
+  "dependencies": {
+    "couchbase": "^2.6.4",
+    "express": "^4.16.4"
+  }
+}
