@@ -9,6 +9,6 @@
   "author": "@dei_biz",
   "license": "MIT",
   "dependencies": {
-    "kafka-node": "^4.1.1"
+    "kafka-node": "^4.1.3"
   }
 }
